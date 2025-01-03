@@ -20,9 +20,9 @@ I am a dedicated web developer and backend enthusiast with a diploma in Computer
 - **Email**: work.siddique@gmail.com
 
 ## Current Focus
-- Learning production-level backend setups at Sheriyans Coding School
-- Developing an Instagram clone using Node.js and JavaScript
-- Sharing my learning journey on LinkedIn
+- Enhancing backend development skills with advanced techniques
+- Expanding knowledge in scalable web application architecture
+- Engaging with the developer community and sharing insights on LinkedIn
 
 ---
 
