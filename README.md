@@ -17,7 +17,7 @@
 
 Second-year B.Tech CSE student with a strong focus on full stack development and AI-integrated applications. I build production-grade apps — not just side projects — including a live e-commerce platform with 1,500+ products and 500+ monthly visitors.
 
-- 🏆 4× Hackathon winner — including SIH qualifier (100+ teams) and Hacknovate 2K26
+- 🏆 Multiple hackathon winner across college and inter-college competitions
 - 🌍 Open to internships, freelance work, and full-time roles
 - 📍 Satara, Maharashtra — open to relocation (Pune / Mumbai / Bangalore)
 - 🤖 Currently expanding into Machine Learning and Python
@@ -48,21 +48,21 @@ Docker · Git · GitHub Actions · Vercel · Render
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | 🛍️ **RoopDarshan** | Production e-commerce — 1,500+ products, 500+ monthly visitors | MERN · Redis · Cloudinary | [Live](https://roopdarshan.com) · [GitHub](https://github.com/shaikhsiddique/RoopDarshan) |
-| 🧠 **Soul Space** | AI mental health chatbot — 1st place SIH qualifier (100+ teams) | MERN · Gemini · Socket.io | [Live](https://soul-space-nu.vercel.app) · [GitHub](https://github.com/shaikhsiddique/SoulSpace) |
+| 🧠 **Soul Space** | AI mental health chatbot — 1st place Internal SIH 2025 | MERN · Gemini · Socket.io | [Live](https://soul-space-nu.vercel.app) · [GitHub](https://github.com/shaikhsiddique/SoulSpace) |
 | ✅ **Task Tracker** | Real-time collaboration with video calls — 1st place KBP competition | MERN · WebRTC · Redis | [Live](https://task-tracker-cyan-alpha.vercel.app) · [GitHub](https://github.com/shaikhsiddique/Task_Tracker) |
 | 🩺 **GlukoBuddy** | AI diabetes risk monitor for children — 2nd place Hacknovate 2K26 | MERN · Ollama · Twilio · OCR | [GitHub](https://github.com/shaikhsiddique/MediQ) |
 | ♟️ **Multiplayer Chess** | Real-time online chess | Socket.io · chess.js | [GitHub](https://github.com/shaikhsiddique/Chess) |
 
 ---
 
-## Hackathon Wins
+## Hackathon & Competition Wins
 
-🥇 1st — Smart India Hackathon 2025 (Internal) · 100+ teams  
+🥇 1st — Internal Smart India Hackathon 2025 · KBP College  
 🥇 1st — WebExplorer Hackathon · KBP College  
-🥇 1st — Project Presentation Competition · KBP Polytechnic (35 teams)  
+🥇 1st — Project Presentation Competition · KBP Polytechnic  
+🥇 1st — PolyQuest 2K23 · Technical Paper Presentation  
 🥈 2nd — Hacknovate 2K26 · Smart Healthcare domain  
 🥈 2nd — Designity Web Hackathon · No frameworks, no internet  
-🥇 1st — PolyQuest 2K23 · Technical Paper Presentation  
 
 ---
 
