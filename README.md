@@ -1,29 +1,79 @@
-# Hi there, I'm Siddique Shaikh! 👋
+<h1 align="center">Hey, I'm Siddique Shaikh 👋</h1>
 
-## About Me
-I am a dedicated web developer and backend enthusiast with a diploma in Computer Science from KBP Polytechnic. I specialize in building efficient, responsive, and scalable web applications using modern technologies. My goal is to continuously learn and grow while contributing to impactful projects.
+<p align="center">
+  Full Stack Developer · B.Tech CSE · Building real things that ship
+</p>
 
-## Skills
-- **Frontend Development**: React.js, HTML, CSS, JavaScript
-- **Backend Development**: Node.js, Express.js, MongoDB, Mongoose
-- **Other Technologies**: GSAP, WebSocket, Tailwind CSS, Android Studio
-- **Tools**: Git, GitHub, Postman, Firebase
-
-## Certifications
-- **Git Cheat Sheet – 50 Git Commands You Should Know** - IBM SkillsBuild
-- **Website Testing and Deployment** - IBM SkillsBuild
-- **Web Development Fundamentals** - IBM SkillsBuild
-
-## Let's Connect
-- **GitHub**: [@shaikhsiddique](https://github.com/shaikhsiddique)
-- **LinkedIn**: [Siddique Shaikh](https://www.linkedin.com/in/shaikhsiddique)
-- **Email**: work.siddique@gmail.com
-
-## Current Focus
-- Enhancing backend development skills with advanced techniques
-- Expanding knowledge in scalable web application architecture
-- Engaging with the developer community and sharing insights on LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaikhSiddique/">LinkedIn</a> •
+  <a href="https://portfolio-ruby-phi-51.vercel.app/">Portfolio</a> •
+  <a href="mailto:work.siddiqueshaikh@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/siddique_shaikh/">LeetCode</a>
+</p>
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. 🚀
+## About
+
+Second-year B.Tech CSE student with a strong focus on full stack development and AI-integrated applications. I build production-grade apps — not just side projects — including a live e-commerce platform with 1,500+ products and 500+ monthly visitors.
+
+- 🏆 4× Hackathon winner — including SIH qualifier (100+ teams) and Hacknovate 2K26
+- 🌍 Open to internships, freelance work, and full-time roles
+- 📍 Satara, Maharashtra — open to relocation (Pune / Mumbai / Bangalore)
+- 🤖 Currently expanding into Machine Learning and Python
+
+---
+
+## Tech Stack
+
+**Frontend**
+React.js · TypeScript · Tailwind CSS · GSAP · React Three Fiber
+
+**Backend**
+Node.js · Express.js · Socket.io · WebRTC · REST APIs
+
+**Databases**
+MongoDB · MySQL · Redis · Cloudinary
+
+**AI / ML**
+Google Gemini API · OpenAI API · Ollama · Python (learning)
+
+**DevOps**
+Docker · Git · GitHub Actions · Vercel · Render
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🛍️ **RoopDarshan** | Production e-commerce — 1,500+ products, 500+ monthly visitors | MERN · Redis · Cloudinary | [Live](https://roopdarshan.com) · [GitHub](https://github.com/shaikhsiddique/RoopDarshan) |
+| 🧠 **Soul Space** | AI mental health chatbot — 1st place SIH qualifier (100+ teams) | MERN · Gemini · Socket.io | [Live](https://soul-space-nu.vercel.app) · [GitHub](https://github.com/shaikhsiddique/SoulSpace) |
+| ✅ **Task Tracker** | Real-time collaboration with video calls — 1st place KBP competition | MERN · WebRTC · Redis | [Live](https://task-tracker-cyan-alpha.vercel.app) · [GitHub](https://github.com/shaikhsiddique/Task_Tracker) |
+| 🩺 **GlukoBuddy** | AI diabetes risk monitor for children — 2nd place Hacknovate 2K26 | MERN · Ollama · Twilio · OCR | [GitHub](https://github.com/shaikhsiddique/MediQ) |
+| ♟️ **Multiplayer Chess** | Real-time online chess | Socket.io · chess.js | [GitHub](https://github.com/shaikhsiddique/Chess) |
+
+---
+
+## Hackathon Wins
+
+🥇 1st — Smart India Hackathon 2025 (Internal) · 100+ teams  
+🥇 1st — WebExplorer Hackathon · KBP College  
+🥇 1st — Project Presentation Competition · KBP Polytechnic (35 teams)  
+🥈 2nd — Hacknovate 2K26 · Smart Healthcare domain  
+🥈 2nd — Designity Web Hackathon · No frameworks, no internet  
+🥇 1st — PolyQuest 2K23 · Technical Paper Presentation  
+
+---
+
+## Currently
+
+- 🔨 Building full stack apps with AI integration
+- 📚 Learning Machine Learning and Python ecosystem
+- 🚀 Open to internship / freelance / full-time opportunities
+
+---
+
+<p align="center">
+  <i>75+ repositories · Always building · Always shipping</i>
+</p>
