@@ -15,7 +15,7 @@
 
 ## About
 
-Second-year B.Tech CSE student with a strong focus on full stack development and AI-integrated applications. I build production-grade apps — not just side projects — including a live e-commerce platform with 1,500+ products and 500+ monthly visitors.
+Third-year B.Tech CSE student with a strong focus on full stack development and AI-integrated applications. I build production-grade apps — not just side projects — including a live e-commerce platform with 1,500+ products and 500+ monthly visitors.
 
 - 🏆 Multiple hackathon winner across college and inter-college competitions
 - 🌍 Open to internships, freelance work, and full-time roles
